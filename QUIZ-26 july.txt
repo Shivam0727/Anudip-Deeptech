@@ -1,0 +1,23 @@
+1- A>  The program will display the output as: 3 
+2- B>  Abstract
+3- A>  The program will display the output as: 36 
+4- A>  Initialization blocks run every time a class is loaded.
+5- c>  A class can extend any number of classes.
+6- C> The program will give compilation error
+7- The program will display: doMethod() a = 9 main() a = 9
+8- C> The program will display the output as: 40 D.
+9- C>  The program will generate the compilation error
+10- A> The program will generate a compilation error at the line marked as 1
+11- C>  It will generate a compilation error.
+12- A> True
+13- C> . The program will display the output as: 
+10
+20
+20
+14- B> The program will generate compilation error.
+15-B> There is a default constructor, which takes arguments of the same type as the data members in order.
+16- A> It will produce the output as: 2
+4
+
+
+ 
